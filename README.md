@@ -6,7 +6,8 @@ About this Specialization : If you want to break into AI, this Specialization wi
 *  Finished Week 1 and Week 2 videos
 *  Finished Week 2 Assignments on [Python Basics with numpy (optional)](https://www.coursera.org/learn/neural-networks-deep-learning/programming/XHpfv/python-basics-with-numpy-optional) and  [Logistic Regression with a Neural Network mindset](https://www.coursera.org/learn/neural-networks-deep-learning/programming/XaIWT/logistic-regression-with-a-neural-network-mindset) :satisfied:
 #### Day 2
-*  Watched all videos of Week 3
+*  Watched all videos of Week 3 hope to complete Week 4 today itself.
+*  Completed Assignment Week 3 on [Planar data classification with a hidden layer](https://www.coursera.org/learn/neural-networks-deep-learning/programming/wRuwL/planar-data-classification-with-a-hidden-layer) Sparse NeuralNet :wink:
 
 
 
