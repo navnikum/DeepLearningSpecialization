@@ -8,6 +8,8 @@ About this Specialization : If you want to break into AI, this Specialization wi
 #### Day 2
 *  Watched all videos of Week 3 hope to complete Week 4 today itself.
 *  Completed Assignment Week 3 on [Planar data classification with a hidden layer](https://www.coursera.org/learn/neural-networks-deep-learning/programming/wRuwL/planar-data-classification-with-a-hidden-layer) Sparse NeuralNet :wink:
+#### Day 3 ( Dec 1 )
+* Finished watching all videos on Deep NeuralNet Week 4
 
 
 
