@@ -10,6 +10,11 @@ About this Specialization : If you want to break into AI, this Specialization wi
 *  Completed Assignment Week 3 on [Planar data classification with a hidden layer](https://www.coursera.org/learn/neural-networks-deep-learning/programming/wRuwL/planar-data-classification-with-a-hidden-layer) Sparse NeuralNet :wink:
 #### Day 3 ( Dec 1 )
 * Finished watching all videos on Deep NeuralNet Week 4
+#### Day 4 ( Dec 2 )
+* Completed Programming Assignment1 Week 4 [Building your deep neural network: Step by Step](https://www.coursera.org/learn/neural-networks-deep-learning/programming/c4HO0/building-your-deep-neural-network-step-by-step)
+* Completed Final Assignment for this course [Deep Neural Network Application](https://www.coursera.org/learn/neural-networks-deep-learning/programming/TSPse/deep-neural-network-application)
+* Earned my first [Certificate](https://www.coursera.org/account/accomplishments/certificate/XVJ5QS5S5D2Y) on Coursera. :satisfied: :smiley:
+
 
 
 
