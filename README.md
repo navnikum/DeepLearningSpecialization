@@ -14,6 +14,9 @@ About this Specialization : If you want to break into AI, this Specialization wi
 * Completed Programming Assignment1 Week 4 [Building your deep neural network: Step by Step](https://www.coursera.org/learn/neural-networks-deep-learning/programming/c4HO0/building-your-deep-neural-network-step-by-step)
 * Completed Final Assignment for this course [Deep Neural Network Application](https://www.coursera.org/learn/neural-networks-deep-learning/programming/TSPse/deep-neural-network-application)
 * Earned my first [Certificate](https://www.coursera.org/account/accomplishments/certificate/XVJ5QS5S5D2Y) on Coursera. :satisfied: :smiley:
+## Course 2 : 
+## Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization 1-2 Dec '18 
+#### Day 1
 
 
 
