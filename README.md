@@ -16,8 +16,10 @@ About this Specialization : If you want to break into AI, this Specialization wi
 * Earned my first [Certificate](https://www.coursera.org/account/accomplishments/certificate/XVJ5QS5S5D2Y) on Coursera. :satisfied: :smiley:
 ## Course 2 : 
 ## Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization 1-2 Dec '18 
-#### Day 1
-
-
+#### Day 1  ( Dec 1 )
+* Wathced all videos of week 1
+* Completed Assignment 1 [Initialization](https://www.coursera.org/learn/deep-neural-network/programming/XOESP/initialization)
+* Completed Assignment 2 [Regularization](https://www.coursera.org/learn/deep-neural-network/programming/SXQaI/regularization) :satisfied: :wink:
+#### Day 2 ( Dec 3 )
 
 
