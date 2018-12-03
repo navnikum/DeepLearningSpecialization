@@ -17,9 +17,12 @@ About this Specialization : If you want to break into AI, this Specialization wi
 ## Course 2 : 
 ## Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization 1-2 Dec '18 
 #### Day 1  ( Dec 2 )
-* Wathced all videos of week 1
+* Watched all videos of week 1
 * Completed Assignment 1 [Initialization](https://www.coursera.org/learn/deep-neural-network/programming/XOESP/initialization)
 * Completed Assignment 2 [Regularization](https://www.coursera.org/learn/deep-neural-network/programming/SXQaI/regularization) :satisfied: :wink:
 #### Day 2 ( Dec 3 )
+* Watched all Optimization videos of Week 2
+* Completed assignment on [Optimization](https://www.coursera.org/learn/deep-neural-network/programming/Ckiv2/optimization)
+
 
 
