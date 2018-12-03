@@ -23,6 +23,6 @@ About this Specialization : If you want to break into AI, this Specialization wi
 #### Day 2 ( Dec 3 )
 * Watched all Optimization videos of Week 2
 * Completed assignment on [Optimization](https://www.coursera.org/learn/deep-neural-network/programming/Ckiv2/optimization)
-
+* Completed Week 3 Videos :wink:
 
 
