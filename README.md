@@ -30,3 +30,4 @@ About this Specialization : If you want to break into AI, this Specialization wi
 ## Structuring Machine Learning Projects 4 Dec '18
 #### Day 1 ( Dec 4 )
 * Watched all videos and completed quizzes based on case studies! :smiley:
+* Earned [Certificate](https://www.coursera.org/account/accomplishments/certificate/HNSJUU7B4RS2) :wink: :satisfied:
