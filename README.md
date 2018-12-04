@@ -24,5 +24,9 @@ About this Specialization : If you want to break into AI, this Specialization wi
 * Watched all Optimization videos of Week 2
 * Completed assignment on [Optimization](https://www.coursera.org/learn/deep-neural-network/programming/Ckiv2/optimization)
 * Completed Week 3 Videos :wink:
-
-
+#### Day 3 ( Dec 4 )
+*
+## Course 3 :
+## Structuring Machine Learning Projects 4 Dec '18
+#### Day 1 ( Dec 4 )
+* Watched all videos and completed quizzes based on case studies! :smiley:
