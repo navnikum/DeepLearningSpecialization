@@ -32,3 +32,7 @@ About this Specialization : If you want to break into AI, this Specialization wi
 #### Day 1 ( Dec 4 )
 * Watched all videos and completed quizzes based on case studies! :smiley:
 * Earned [Certificate](https://www.coursera.org/account/accomplishments/certificate/HNSJUU7B4RS2) :wink: :satisfied:
+## Course 4 :
+## Convolutional Neural Networks
+#### Day 1 ( Dec 5 )
+* Watched all videos of week 1 
