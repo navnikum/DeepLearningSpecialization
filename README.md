@@ -37,4 +37,4 @@ About this Specialization : If you want to break into AI, this Specialization wi
 #### Day 1 ( Dec 5 )
 * Watched all videos of week 1 
 * Completed the Assignments Convolutional Model: [step by step ](https://www.coursera.org/learn/convolutional-neural-networks/programming/qO8ng/convolutional-model-step-by-step) and Convolutional model: [application  ](https://www.coursera.org/learn/convolutional-neural-networks/programming/bwbJV/convolutional-model-application) :wink:
-
+* Watched all videos of week 2
