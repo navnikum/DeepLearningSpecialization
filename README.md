@@ -41,3 +41,8 @@ About this Specialization : If you want to break into AI, this Specialization wi
 #### Day 2 ( Dec 6 )
 * Completed assignments on [Keras Tutorial](https://www.coursera.org/learn/convolutional-neural-networks/notebook/tEOkX/keras-tutorial-the-happy-house-not-graded) and [Residual Networks](https://www.coursera.org/learn/convolutional-neural-networks/programming/OEpi5/residual-networks)
 * Watched Week 3 and submitted assignment on [Car detection with YOLOv2](https://www.coursera.org/learn/convolutional-neural-networks/programming/OMdut/car-detection-with-yolov2/submission)
+#### Day 3 ( Dec 7 )
+* Watched Week 4 videos
+* Submitted assignments on [Art generation with Neural Style Transfer](https://www.coursera.org/learn/convolutional-neural-networks/programming/owWbQ/art-generation-with-neural-style-transfer) and [Face Recognition for the Happy House](https://www.coursera.org/learn/convolutional-neural-networks/programming/IaknP/face-recognition-for-the-happy-house) :wink:
+* Earned [Certificate](https://www.coursera.org/account/accomplishments/certificate/NUQYD7W9G2BC)
+ 
