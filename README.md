@@ -45,4 +45,10 @@ About this Specialization : If you want to break into AI, this Specialization wi
 * Watched Week 4 videos
 * Submitted assignments on [Art generation with Neural Style Transfer](https://www.coursera.org/learn/convolutional-neural-networks/programming/owWbQ/art-generation-with-neural-style-transfer) and [Face Recognition for the Happy House](https://www.coursera.org/learn/convolutional-neural-networks/programming/IaknP/face-recognition-for-the-happy-house) :wink:
 * Earned [Certificate](https://www.coursera.org/account/accomplishments/certificate/NUQYD7W9G2BC)
+## Course 5 :
+## Sequence Models
+#### Day 1 ( Dec 8 )
+* Watched week 2 videos
+#### Day 2 ( Dec 9 )
+*
  
