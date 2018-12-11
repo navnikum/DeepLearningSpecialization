@@ -49,6 +49,9 @@ About this Specialization : If you want to break into AI, this Specialization wi
 ## Sequence Models
 #### Day 1 ( Dec 8 )
 * Watched week 2 videos
-#### Day 2 ( Dec 9 )
-*
+#### Day 2& 3 ( Dec 9 & Dec 10 )
+* Watched week 1 videos
+#### Day 4 ( Dec 11 )
+* Completed week 1 assignments [Building a recurrent neural network](https://www.coursera.org/learn/nlp-sequence-models/programming/xxuVc/building-a-recurrent-neural-network-step-by-step) , [Dinosaur Island - Character-Level Language Modeling
+](https://www.coursera.org/learn/nlp-sequence-models/programming/1dYg0/dinosaur-island-character-level-language-modeling) , and [Jazz improvisation with LSTM](https://www.coursera.org/learn/nlp-sequence-models/programming/EG0F7/jazz-improvisation-with-lstm)
  
