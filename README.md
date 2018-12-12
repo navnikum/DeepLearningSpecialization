@@ -54,4 +54,9 @@ About this Specialization : If you want to break into AI, this Specialization wi
 #### Day 4 ( Dec 11 )
 * Completed week 1 assignments [Building a recurrent neural network](https://www.coursera.org/learn/nlp-sequence-models/programming/xxuVc/building-a-recurrent-neural-network-step-by-step) , [Dinosaur Island - Character-Level Language Modeling
 ](https://www.coursera.org/learn/nlp-sequence-models/programming/1dYg0/dinosaur-island-character-level-language-modeling) , and [Jazz improvisation with LSTM](https://www.coursera.org/learn/nlp-sequence-models/programming/EG0F7/jazz-improvisation-with-lstm)
- 
+#### Day 5 ( Dec 12 )
+* Completed assignments week 2 [Operations on word vectors - Debiasing](https://www.coursera.org/learn/nlp-sequence-models/programming/8hb5s/operations-on-word-vectors-debiasing) and [Emojify](https://www.coursera.org/learn/nlp-sequence-models/programming/RNnEs/emojify) :satisfied:
+* Watched week 3 videos and completed assignments on [Neural Machine Translation with Attention](https://www.coursera.org/learn/nlp-sequence-models/programming/n16CQ/neural-machine-translation-with-attention) and [Trigger word detection](https://www.coursera.org/learn/nlp-sequence-models/programming/rSupZ/trigger-word-detection) :wink:
+* Earned [Certificate](https://www.coursera.org/account/accomplishments/certificate/GW5QMASA59P8)
+## Completed Deep Learning Specialization [Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/BGDCAWPKCY3H) :wink:
+
